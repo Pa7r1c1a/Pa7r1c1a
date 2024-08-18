@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pa7r1c1a
-- 👀 I’m interested in C, C++, Geometry, OpenGL, GLSL, Data Science, Machine Learning, IA, Doing things for the greater good of all. Don't be Evil ;)
+- 👀 I’m interested in C, C++, Geometry, OpenGL, GLSL, Data Science, Machine Learning, IA and AI, Doing things for the greater good of all. Don't be Evil ;)
 Kindness! Respect!
 You! as a Human Being with your achievments, struggles, successes, failures, strength, heart and soul. 
 - 🌱 I’m currently learning... how to be a great and kind human being and enjoy each and every day of my life.
