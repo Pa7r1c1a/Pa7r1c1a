@@ -11,7 +11,7 @@ Also working on myself and social skills. I am an introvert always concerned abo
 
 - 📫 How to reach me ... If you want to reach out to me, drop me a line, shout my name if I'm in the same room. I'm sure you'll find a way ;)
   
-- ⚡ Fun fact: ... I really should work on this readme file but for now: "Je peux pas j'ai piscine !" :D
+- ⚡ Fun fact: ... I really should work on this readme file.
 
 <!---
 Pa7r1c1a/Pa7r1c1a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
